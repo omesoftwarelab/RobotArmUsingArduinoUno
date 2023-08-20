@@ -3,4 +3,4 @@ Bajdi changed it to bipolar and uses it, but I use it as unipolar in this reposi
 
 The electrical circuit is shown in circuit1.jpg and circuit2.jpg. The required parts list is shown in parts.txt.
 
-The schematic of the robot arm controller is shown in controller-circuit.png. The parts list is shown in controller-parts.txt.
+The schematic of the robot arm controller is shown in circuit3.jpg. The parts list is shown in controller-parts.txt.
